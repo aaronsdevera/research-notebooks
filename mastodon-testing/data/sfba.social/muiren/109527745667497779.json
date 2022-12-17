@@ -1,0 +1,70 @@
+{
+    "id": 109527745667497779,
+    "created_at": "2022-12-17T07:06:06+00:00",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://sfba.social/users/muiren/statuses/109527745612730683",
+    "url": "https://sfba.social/@muiren/109527745612730683",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "edited_at": null,
+    "local_only": null,
+    "content": "<p>This is how Trans people are most often showcased where I'm from in Ohio, Kentucky, and Indiana media. I have tried and failed to imagine a BIPOC Trans Woman being this deliberately provocative. Regardless of whether or not it should matter, Cis or Het gender teacher, to do something like this at a time when Trans folk are under attack is tone-deaf at the least. <a href=\"https://local12.com/news/nation-world/canadian-school-threatens-students-with-suspension-if-they-photograph-trans-teacher-parents-say-canada-transgenger-giant-prosthetic-breasts-kayla-lemieux-oakville-trafalgar-high-halton-disctrict-board\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">local12.com/news/nation-world/</span><span class=\"invisible\">canadian-school-threatens-students-with-suspension-if-they-photograph-trans-teacher-parents-say-canada-transgenger-giant-prosthetic-breasts-kayla-lemieux-oakville-trafalgar-high-halton-disctrict-board</span></a></p>",
+    "reblog": null,
+    "account": {
+        "id": 109461432170130795,
+        "username": "muiren",
+        "acct": "muiren@sfba.social",
+        "display_name": "Muir\u00e9n \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f\ud83c\udff3\ufe0f\u200d\ud83c\udf08\u267e\ufe0f\ud83e\udde0",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "group": false,
+        "created_at": "2022-12-04T00:00:00+00:00",
+        "note": "<p>\u2a5c\u20dd\ud83e\udd56\ud83c\udf39She/Her, Co-Creative at S\u00edof\u0433a Tech Co-op for Social &amp; Technological Innovation in Performing Arts, Culture as a Technology.</p>",
+        "url": "https://sfba.social/@muiren",
+        "avatar": "https://media.infosec.exchange/infosecmedia/cache/accounts/avatars/109/461/432/170/130/795/original/7e568b30f558c6c8.png",
+        "avatar_static": "https://media.infosec.exchange/infosecmedia/cache/accounts/avatars/109/461/432/170/130/795/original/7e568b30f558c6c8.png",
+        "header": "https://media.infosec.exchange/infosecmedia/cache/accounts/headers/109/461/432/170/130/795/original/03fe6a416b5effef.png",
+        "header_static": "https://media.infosec.exchange/infosecmedia/cache/accounts/headers/109/461/432/170/130/795/original/03fe6a416b5effef.png",
+        "followers_count": 74,
+        "following_count": 255,
+        "statuses_count": 245,
+        "last_status_at": "2022-12-17T00:00:00",
+        "emojis": [],
+        "fields": [
+            {
+                "name": "S\u00edofra Tech Cooperative",
+                "value": "HTTPS:SIOFRA.TECH",
+                "verified_at": null
+            },
+            {
+                "name": "Anarcho-Pacifist",
+                "value": "<a href=\"https://plato.stanford.edu/entries/anarchism/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">plato.stanford.edu/entries/ana</span><span class=\"invisible\">rchism/</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Democratic Socialist",
+                "value": "<a href=\"https://www.dsausa.org/about-us/what-is-democratic-socialism/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">dsausa.org/about-us/what-is-de</span><span class=\"invisible\">mocratic-socialism/</span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Transitional Cooperative Capitalist",
+                "value": "<a href=\"https://geo.coop/story/cooperative-movement-vs-global-capitalism\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">geo.coop/story/cooperative-mov</span><span class=\"invisible\">ement-vs-global-capitalism</span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": [],
+    "card": null,
+    "poll": null,
+    "filtered": []
+}

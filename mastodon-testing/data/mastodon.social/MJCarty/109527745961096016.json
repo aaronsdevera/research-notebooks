@@ -1,0 +1,79 @@
+{
+    "id": 109527745961096016,
+    "created_at": "2022-12-17T07:06:11+00:00",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://mastodon.social/users/MJCarty/statuses/109527745910382203",
+    "url": "https://mastodon.social/@MJCarty/109527745910382203",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "edited_at": null,
+    "local_only": null,
+    "content": "<p>\"Under Elon Musk, Twitter is ruled by whim.\"</p><p>Trying to work out Elon Musk's grand Twitter strategy is pointless - he doesn't have one</p><p><a href=\"https://mastodon.social/tags/Twitter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Twitter</span></a> <a href=\"https://mastodon.social/tags/TwitterExodus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TwitterExodus</span></a> </p><p><a href=\"https://news.sky.com/story/trying-to-work-out-elon-musks-grand-twitter-strategy-is-pointless-he-doesnt-have-one-12769281\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">news.sky.com/story/trying-to-w</span><span class=\"invisible\">ork-out-elon-musks-grand-twitter-strategy-is-pointless-he-doesnt-have-one-12769281</span></a></p>",
+    "reblog": null,
+    "account": {
+        "id": 149353,
+        "username": "MJCarty",
+        "acct": "MJCarty@mastodon.social",
+        "display_name": "Michael Carty",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "group": false,
+        "created_at": "2019-11-08T00:00:00+00:00",
+        "note": "<p>Editor \u2666 Writer \u2666 Blogger \u2666 Artist \u2666 </p><p>Personal account for personal views and opinions only. </p><p>May today be nothing but kind to you and yours.</p>",
+        "url": "https://mastodon.social/@MJCarty",
+        "avatar": "https://media.infosec.exchange/infosecmedia/accounts/avatars/000/149/353/original/8613ed2c2384bb2c.jpeg",
+        "avatar_static": "https://media.infosec.exchange/infosecmedia/accounts/avatars/000/149/353/original/8613ed2c2384bb2c.jpeg",
+        "header": "https://media.infosec.exchange/infosecmedia/accounts/headers/000/149/353/original/06668e1a3f6c65f1.jpeg",
+        "header_static": "https://media.infosec.exchange/infosecmedia/accounts/headers/000/149/353/original/06668e1a3f6c65f1.jpeg",
+        "followers_count": 753,
+        "following_count": 360,
+        "statuses_count": 1325,
+        "last_status_at": "2022-12-17T00:00:00",
+        "emojis": [],
+        "fields": [
+            {
+                "name": "Blog (MJCarty.com)",
+                "value": "<a href=\"https://mjcarty.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mjcarty.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-28T15:23:06.876+00:00"
+            },
+            {
+                "name": "LinkedIn",
+                "value": "<a href=\"https://www.linkedin.com/in/michaelcarty/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">linkedin.com/in/michaelcarty/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Twitter",
+                "value": "<a href=\"https://twitter.com/mjcarty\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/mjcarty</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Instagram",
+                "value": "<a href=\"https://www.instagram.com/mj_carty/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">instagram.com/mj_carty/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+        {
+            "name": "twitter",
+            "url": "https://infosec.exchange/tags/twitter"
+        },
+        {
+            "name": "twitterexodus",
+            "url": "https://infosec.exchange/tags/twitterexodus"
+        }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null,
+    "filtered": []
+}

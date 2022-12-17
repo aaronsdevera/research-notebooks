@@ -1,0 +1,65 @@
+{
+    "id": 109527746989892006,
+    "created_at": "2022-12-17T07:05:57+00:00",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "cs",
+    "uri": "https://mastodonczech.cz/users/rychlofky/statuses/109527745026301736",
+    "url": "https://mastodonczech.cz/@rychlofky/109527745026301736",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "edited_at": null,
+    "local_only": null,
+    "content": "<p>Apple pr\u00fd zva\u017euje zru\u0161it povinn\u00e9 u\u017eit\u00ed WebKitu pro prohl\u00ed\u017ee\u010de na iOSu <a href=\"https://www.ghacks.net/2022/12/16/apple-may-drop-the-webkit-requirement-for-web-browsers-on-ios/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">ghacks.net/2022/12/16/apple-ma</span><span class=\"invisible\">y-drop-the-webkit-requirement-for-web-browsers-on-ios/</span></a></p>",
+    "reblog": null,
+    "account": {
+        "id": 109331322160694367,
+        "username": "rychlofky",
+        "acct": "rychlofky@mastodonczech.cz",
+        "display_name": "Rychlofky",
+        "locked": false,
+        "bot": true,
+        "discoverable": true,
+        "group": false,
+        "created_at": "2022-11-11T00:00:00+00:00",
+        "note": "<p>\u203c Ned\u011bln\u00ed newsletter, \u010dtvrte\u010dn\u00ed podcast, p\u0159ihl\u00e1sit \ud83d\udc49\ud83d\udc49  <a href=\"http://rychlofky.substack.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">rychlofky.substack.com</span><span class=\"invisible\"></span></a></p><p>Kr\u00e1tk\u00e9 zpr\u00e1vi\u010dky, tipy na zaj\u00edmav\u00fd \u010di d\u016fle\u017eit\u00fd obsah</p><p>Sledovat v\u00e1s tento \u00fa\u010det nebude, ale kdy\u017e budete ps\u00e1t, tak ob\u010das i zareaguje. Jinak roboticky krmen skrz Twitter.</p><p>twitter: <span class=\"h-card\"><a href=\"https://mastodonczech.cz/@rychlofky\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rychlofky</span></a></span></p><p>P\u0159\u00edsp\u011bvky star\u0161\u00ed jeden m\u011bs\u00edc jsou automaticky maz\u00e1ny.</p>",
+        "url": "https://mastodonczech.cz/@rychlofky",
+        "avatar": "https://media.infosec.exchange/infosecmedia/cache/accounts/avatars/109/331/322/160/694/367/original/51bc6a12f9423ac5.png",
+        "avatar_static": "https://media.infosec.exchange/infosecmedia/cache/accounts/avatars/109/331/322/160/694/367/original/51bc6a12f9423ac5.png",
+        "header": "https://media.infosec.exchange/infosecmedia/cache/accounts/headers/109/331/322/160/694/367/original/19f7b0477ca02656.jpg",
+        "header_static": "https://media.infosec.exchange/infosecmedia/cache/accounts/headers/109/331/322/160/694/367/original/19f7b0477ca02656.jpg",
+        "followers_count": 571,
+        "following_count": 0,
+        "statuses_count": 397,
+        "last_status_at": "2022-12-17T00:00:00",
+        "emojis": [],
+        "fields": [
+            {
+                "name": "Rychlofky",
+                "value": "<a href=\"https://rychlofky.substack.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">rychlofky.substack.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "@rychlofky",
+                "value": "<a href=\"https://twitter.com/rychlofky\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.com/rychlofky</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Rychlofky.cz",
+                "value": "<a href=\"https://rychlofky.cz\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">rychlofky.cz</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": [],
+    "card": null,
+    "poll": null,
+    "filtered": []
+}

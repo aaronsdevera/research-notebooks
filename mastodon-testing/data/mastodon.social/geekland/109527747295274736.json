@@ -1,0 +1,58 @@
+{
+    "id": 109527747295274736,
+    "created_at": "2022-12-17T07:06:32+00:00",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "es",
+    "uri": "https://mastodon.social/users/geekland/statuses/109527747267027016",
+    "url": "https://mastodon.social/@geekland/109527747267027016",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "edited_at": null,
+    "local_only": null,
+    "content": "<p>20 comandos mysqladmin para la administraci\u00f3n de bases de datos MYSQL/MariaDB <a href=\"https://mastodon.social/tags/mysql\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mysql</span></a> <a href=\"https://mastodon.social/tags/database\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>database</span></a> <a href=\"https://www.linuxparty.es/89-basesdedatos/11251-20-comandos-mysqladmin-para-la-administracion-de-bases-de-datos-mysql-mariadb.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">linuxparty.es/89-basesdedatos/</span><span class=\"invisible\">11251-20-comandos-mysqladmin-para-la-administracion-de-bases-de-datos-mysql-mariadb.html</span></a></p>",
+    "reblog": null,
+    "account": {
+        "id": 195285,
+        "username": "geekland",
+        "acct": "geekland@mastodon.social",
+        "display_name": "Geekland",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "group": false,
+        "created_at": "2020-10-12T00:00:00+00:00",
+        "note": "<p><a href=\"https://mastodon.social/tags/Linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Linux</span></a>, <a href=\"https://mastodon.social/tags/Debian\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Debian</span></a>, Software libre, Windows, Android, iOS, tecnolog\u00eda y todo lo que puede pasar por mi mente.</p>",
+        "url": "https://mastodon.social/@geekland",
+        "avatar": "https://media.infosec.exchange/infosecmedia/cache/accounts/avatars/000/195/285/original/6c8d61f774d6c5b4.png",
+        "avatar_static": "https://media.infosec.exchange/infosecmedia/cache/accounts/avatars/000/195/285/original/6c8d61f774d6c5b4.png",
+        "header": "https://media.infosec.exchange/infosecmedia/cache/accounts/headers/000/195/285/original/121177ab2d1bed9e.jpg",
+        "header_static": "https://media.infosec.exchange/infosecmedia/cache/accounts/headers/000/195/285/original/121177ab2d1bed9e.jpg",
+        "followers_count": 540,
+        "following_count": 47,
+        "statuses_count": 11852,
+        "last_status_at": "2022-12-17T00:00:00",
+        "emojis": [],
+        "fields": []
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+        {
+            "name": "mysql",
+            "url": "https://infosec.exchange/tags/mysql"
+        },
+        {
+            "name": "database",
+            "url": "https://infosec.exchange/tags/database"
+        }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null,
+    "filtered": []
+}

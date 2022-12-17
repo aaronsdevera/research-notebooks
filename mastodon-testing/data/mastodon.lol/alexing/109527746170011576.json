@@ -1,0 +1,65 @@
+{
+    "id": 109527746170011576,
+    "created_at": "2022-12-17T07:05:54+00:00",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://mastodon.lol/users/alexing/statuses/109527744811992411",
+    "url": "https://mastodon.lol/@alexing/109527744811992411",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "edited_at": null,
+    "local_only": null,
+    "content": "<p>slow chill solving session for aoc day16 <a href=\"https://www.youtube.com/watch?v=ewUTh_G5de4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=ewUTh_G5de</span><span class=\"invisible\">4</span></a></p>",
+    "reblog": null,
+    "account": {
+        "id": 109378848481026033,
+        "username": "alexing",
+        "acct": "alexing@mastodon.lol",
+        "display_name": "alexing",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "group": false,
+        "created_at": "2022-11-20T00:00:00+00:00",
+        "note": "<p>Alex N. she/her serial mijemoder. a.k.a. nim. trans and suffering for it</p><p>hobbyist programmer when not depressed<br>also sm64, amateur linguistics, chess, little bit of music, and toki pona</p><p>total amount of money stolen from pannenkoek2012: US$1360</p><p>discord: Alex__#6398 (best way to reach me)<br>@alex11010011h@twitter.com<br>@alexing@cohost.org<br>@nim-ka@lichess.org<br>@nim-ka@github.com (doesnt have much public sadly)</p><p>#1 Cherim Nakhushev Fangirl</p>",
+        "url": "https://mastodon.lol/@alexing",
+        "avatar": "https://media.infosec.exchange/infosecmedia/cache/accounts/avatars/109/378/848/481/026/033/original/9c30360a6916651b.png",
+        "avatar_static": "https://media.infosec.exchange/infosecmedia/cache/accounts/avatars/109/378/848/481/026/033/original/9c30360a6916651b.png",
+        "header": "https://media.infosec.exchange/infosecmedia/cache/accounts/headers/109/378/848/481/026/033/original/62c2a7c0253e9b2d.jpeg",
+        "header_static": "https://media.infosec.exchange/infosecmedia/cache/accounts/headers/109/378/848/481/026/033/original/62c2a7c0253e9b2d.jpeg",
+        "followers_count": 63,
+        "following_count": 46,
+        "statuses_count": 187,
+        "last_status_at": "2022-12-17T00:00:00",
+        "emojis": [],
+        "fields": [
+            {
+                "name": "pronouns",
+                "value": "she/her",
+                "verified_at": null
+            },
+            {
+                "name": "link",
+                "value": "<a href=\"https://mek.sm64.us\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mek.sm64.us</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-12-09T23:26:26.836+00:00"
+            },
+            {
+                "name": "youtube",
+                "value": "<a href=\"https://nim.sm64.us\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">nim.sm64.us</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [],
+    "emojis": [],
+    "card": null,
+    "poll": null,
+    "filtered": []
+}

@@ -1,0 +1,72 @@
+{
+    "id": 109527747106671777,
+    "created_at": "2022-12-17T07:06:28+00:00",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://aus.social/users/ifcatthenx/statuses/109527747003507470",
+    "url": "https://aus.social/@ifcatthenx/109527747003507470",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "edited_at": null,
+    "local_only": null,
+    "content": "<p>True love:</p><p>It's Saturday afternoon. You're watching competitive cooking shows together. He's sitting on the couch, you sit on the floor in front of him and lean your head back into his lap.</p><p>He has tweezers. He methodically removes all the stray hairs from your chin and neck.</p><p><a href=\"https://aus.social/tags/blessed\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>blessed</span></a></p>",
+    "reblog": null,
+    "account": {
+        "id": 109301184952505411,
+        "username": "ifcatthenx",
+        "acct": "ifcatthenx@aus.social",
+        "display_name": "Cat :skellysip:",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "group": false,
+        "created_at": "2022-11-05T00:00:00+00:00",
+        "note": "<p>I acknowledge the Yuggera peoples as the Traditional Owners of the country I live on, and pay my respects to Elders past and present.</p><p>Media advisor. Singer and tambourine specialist. Nursing student. Eternal optimist.</p>",
+        "url": "https://aus.social/@ifcatthenx",
+        "avatar": "https://media.infosec.exchange/infosecmedia/cache/accounts/avatars/109/301/184/952/505/411/original/3ed98d7ab050886f.png",
+        "avatar_static": "https://media.infosec.exchange/infosecmedia/cache/accounts/avatars/109/301/184/952/505/411/original/3ed98d7ab050886f.png",
+        "header": "https://media.infosec.exchange/infosecmedia/cache/accounts/headers/109/301/184/952/505/411/original/062ba51cc2f741bc.jpeg",
+        "header_static": "https://media.infosec.exchange/infosecmedia/cache/accounts/headers/109/301/184/952/505/411/original/062ba51cc2f741bc.jpeg",
+        "followers_count": 153,
+        "following_count": 158,
+        "statuses_count": 324,
+        "last_status_at": "2022-12-17T00:00:00",
+        "emojis": [
+            {
+                "shortcode": "skellysip",
+                "url": "https://media.infosec.exchange/infosecmedia/cache/custom_emojis/images/000/122/830/original/edaed48a898ccf5b.png",
+                "static_url": "https://media.infosec.exchange/infosecmedia/cache/custom_emojis/images/000/122/830/static/edaed48a898ccf5b.png",
+                "visible_in_picker": true
+            }
+        ],
+        "fields": [
+            {
+                "name": "pronouns",
+                "value": "she/they",
+                "verified_at": null
+            },
+            {
+                "name": "web",
+                "value": "<a href=\"https://catmilton.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">catmilton.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-11-21T14:16:36.939+00:00"
+            }
+        ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+        {
+            "name": "blessed",
+            "url": "https://infosec.exchange/tags/blessed"
+        }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null,
+    "filtered": []
+}

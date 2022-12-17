@@ -1,0 +1,73 @@
+{
+    "id": 109527747648577144,
+    "created_at": "2022-12-17T07:06:37+00:00",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": true,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://osintua.eu/users/ua/statuses/109527747606788204",
+    "url": "https://osintua.eu/@ua/109527747606788204",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "edited_at": null,
+    "local_only": null,
+    "content": "<p>Archived from \ud83c\uddfa\ud83c\udde6  <a href=\"https://osintua.eu/tags/Telegram\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Telegram</span></a>:  <br>@AmplifyUkraine on 2022-12-17 06:45:44 (#309538) <br><a href=\"https://ukraine.osintukraine.com/2022-12_33.html#309538\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ukraine.osintukraine.com/2022-</span><span class=\"invisible\">12_33.html#309538</span></a><br><a href=\"https://osintua.eu/tags/Ukraine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Ukraine</span></a> <a href=\"https://osintua.eu/tags/Telegram\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Telegram</span></a> <a href=\"https://osintua.eu/tags/Archive\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Archive</span></a></p>",
+    "reblog": null,
+    "account": {
+        "id": 109456078319676978,
+        "username": "ua",
+        "acct": "ua@osintua.eu",
+        "display_name": "AmplifyUkraine",
+        "locked": false,
+        "bot": true,
+        "discoverable": true,
+        "group": false,
+        "created_at": "2022-11-27T00:00:00+00:00",
+        "note": "<p>OSINTukraine project<br>CAUTION: Content Warning !!!<br>!!! Link Embed Card broken for some clients !!!<br>Click on the txt link to reach the destination.</p>",
+        "url": "https://osintua.eu/@ua",
+        "avatar": "https://media.infosec.exchange/infosecmedia/cache/accounts/avatars/109/456/078/319/676/978/original/f4de6bf694aa8cfe.jpg",
+        "avatar_static": "https://media.infosec.exchange/infosecmedia/cache/accounts/avatars/109/456/078/319/676/978/original/f4de6bf694aa8cfe.jpg",
+        "header": "https://media.infosec.exchange/infosecmedia/cache/accounts/headers/109/456/078/319/676/978/original/4cb9f59c0afbfd24.jpg",
+        "header_static": "https://media.infosec.exchange/infosecmedia/cache/accounts/headers/109/456/078/319/676/978/original/4cb9f59c0afbfd24.jpg",
+        "followers_count": 71,
+        "following_count": 5,
+        "statuses_count": 5311,
+        "last_status_at": "2022-12-17T00:00:00",
+        "emojis": [],
+        "fields": [
+            {
+                "name": "AmplifyUkraine",
+                "value": "<a href=\"https://amplifyukraine.eu\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">amplifyukraine.eu</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "OSINTukraine",
+                "value": "<a href=\"https://osintukraine.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">osintukraine.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+        {
+            "name": "telegram",
+            "url": "https://infosec.exchange/tags/telegram"
+        },
+        {
+            "name": "ukraine",
+            "url": "https://infosec.exchange/tags/ukraine"
+        },
+        {
+            "name": "archive",
+            "url": "https://infosec.exchange/tags/archive"
+        }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null,
+    "filtered": []
+}

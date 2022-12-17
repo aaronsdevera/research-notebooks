@@ -1,0 +1,86 @@
+{
+    "id": 109526936950274711,
+    "created_at": "2022-12-17T03:40:27+00:00",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://comfy.blue/users/Lexa/statuses/109526936972438008",
+    "url": "https://comfy.blue/@Lexa/109526936972438008",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "edited_at": null,
+    "local_only": null,
+    "content": "<p>As a <a href=\"https://comfy.blue/tags/Mastodonadmin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodonadmin</span></a> the panel lets you add emoji from other servers simply by ticking a box and clicking copy. Am I ok to yoink any emoji I like for my instance or is using the \"copy\" functionality frowned upon? \ud83e\udd14</p>",
+    "reblog": null,
+    "account": {
+        "id": 109517281828398242,
+        "username": "Lexa",
+        "acct": "Lexa@comfy.blue",
+        "display_name": "Lexa",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "group": false,
+        "created_at": "2022-12-15T00:00:00+00:00",
+        "note": "<p>Your friendly neighbourhood bunny girl. Say \"Hi\" if you see me around \ud83d\udc96 <a href=\"https://comfy.blue/tags/GPOSE\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GPOSE</span></a> enthusiast Occasional NSFW\ud83d\udd1e (will be flagged).</p><p>Owner of comfy.blue server.</p>",
+        "url": "https://comfy.blue/@Lexa",
+        "avatar": "https://media.infosec.exchange/infosecmedia/cache/accounts/avatars/109/517/281/828/398/242/original/c437805c4c4b96a9.png",
+        "avatar_static": "https://media.infosec.exchange/infosecmedia/cache/accounts/avatars/109/517/281/828/398/242/original/c437805c4c4b96a9.png",
+        "header": "https://media.infosec.exchange/infosecmedia/cache/accounts/headers/109/517/281/828/398/242/original/a1ce426e339828f2.png",
+        "header_static": "https://media.infosec.exchange/infosecmedia/cache/accounts/headers/109/517/281/828/398/242/original/a1ce426e339828f2.png",
+        "followers_count": 33,
+        "following_count": 56,
+        "statuses_count": 50,
+        "last_status_at": "2022-12-17T00:00:00",
+        "emojis": [],
+        "fields": [
+            {
+                "name": "Website",
+                "value": "<a href=\"https://lexa.red/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">lexa.red/</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-12-16T12:37:22.145+00:00"
+            }
+        ]
+    },
+    "media_attachments": [
+        {
+            "id": 109527745730199752,
+            "type": "image",
+            "url": "https://media.infosec.exchange/infosecmedia/cache/media_attachments/files/109/527/745/730/199/752/original/c62a368edcb8143f.png",
+            "preview_url": "https://media.infosec.exchange/infosecmedia/cache/media_attachments/files/109/527/745/730/199/752/small/c62a368edcb8143f.png",
+            "remote_url": "https://storage.comfy.blue/files.comfy.blue/media_attachments/files/109/526/925/696/780/402/original/d730d1628d2246e7.png",
+            "preview_remote_url": null,
+            "text_url": null,
+            "meta": {
+                "original": {
+                    "width": 1179,
+                    "height": 835,
+                    "size": "1179x835",
+                    "aspect": 1.4119760479041916
+                },
+                "small": {
+                    "width": 570,
+                    "height": 404,
+                    "size": "570x404",
+                    "aspect": 1.4108910891089108
+                }
+            },
+            "description": null,
+            "blurhash": "U35}afPDtL#i,}XVt9xCB2=bxgJrBe=YxgJY"
+        }
+    ],
+    "mentions": [],
+    "tags": [
+        {
+            "name": "mastodonadmin",
+            "url": "https://infosec.exchange/tags/mastodonadmin"
+        }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null,
+    "filtered": []
+}

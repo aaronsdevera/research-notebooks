@@ -1,0 +1,118 @@
+{
+    "id": 109527748108728659,
+    "created_at": "2022-12-17T07:06:42+00:00",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "de",
+    "uri": "https://swiss.social/users/bsm/statuses/109527747982359272",
+    "url": "https://swiss.social/@bsm/109527747982359272",
+    "replies_count": 0,
+    "reblogs_count": 0,
+    "favourites_count": 0,
+    "edited_at": null,
+    "local_only": null,
+    "content": "<p>Und im selben <a href=\"https://swiss.social/tags/Moment\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Moment</span></a>, in welchem alle von <a href=\"https://swiss.social/tags/ElonMusk\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ElonMusk</span></a> gesperrten <a href=\"https://swiss.social/tags/Journis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Journis</span></a> aufatmen und sofort wieder auf <a href=\"https://swiss.social/tags/Twitter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Twitter</span></a> aktiv werden, hat er alles gewonnen und die JournalistInnen abh\u00e4ngig gemacht.</p><p>Wollt ihr das wirklich? Verabschiedet euch von diesem H\u00f6llenloch \u201eBirdland\u201c und werdet aktiv im <a href=\"https://swiss.social/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a>.<br>Oder wollt ihr ernsthaft weiter f\u00fcr Twitter und Musk arbeiten, indem ihr ihm Content liefert?!</p><p><a href=\"https://swiss.social/tags/twittermigration\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>twittermigration</span></a> <a href=\"https://swiss.social/tags/journalismus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>journalismus</span></a> <a href=\"https://swiss.social/tags/journalism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>journalism</span></a> <a href=\"https://swiss.social/tags/journalists\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>journalists</span></a> <a href=\"https://swiss.social/tags/twitterpurge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>twitterpurge</span></a> <a href=\"https://swiss.social/tags/twitterexodus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>twitterexodus</span></a> <a href=\"https://swiss.social/tags/befree\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>befree</span></a> <a href=\"https://swiss.social/tags/musk\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>musk</span></a></p>",
+    "reblog": null,
+    "account": {
+        "id": 109375178775141755,
+        "username": "bsm",
+        "acct": "bsm@swiss.social",
+        "display_name": "BSM (sw.s) \ud83c\udde8\ud83c\udded",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "group": false,
+        "created_at": "2022-11-11T00:00:00+00:00",
+        "note": "<p>[Umzug von <span class=\"h-card\"><a href=\"https://social.tchncs.de/@bsm\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>bsm</span></a></span>]</p><p>Im Fediverse seit 2. M\u00e4rz 2019.</p><p>Zwischen den Wolken - Glaubt, dass er nicht alles selber muss - Liebt Differenzierung und Diversifizierung - Tr\u00f6tet \u00fcber ganz Unterschiedliches - Ist an Vielem interessiert - Mag Lustiges, Komisches, Intelligentes, Spannendes ...</p><p><a href=\"https://swiss.social/tags/pilot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pilot</span></a> <a href=\"https://swiss.social/tags/aviation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>aviation</span></a> <a href=\"https://swiss.social/tags/piano\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>piano</span></a> <a href=\"https://swiss.social/tags/guitar\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>guitar</span></a><br><a href=\"https://swiss.social/tags/theologian\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>theologian</span></a> <a href=\"https://swiss.social/tags/techgeek\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>techgeek</span></a><br><a href=\"https://swiss.social/tags/traveller\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>traveller</span></a> <a href=\"https://swiss.social/tags/human\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>human</span></a></p>",
+        "url": "https://swiss.social/@bsm",
+        "avatar": "https://media.infosec.exchange/infosecmedia/cache/accounts/avatars/109/375/178/775/141/755/original/8e9df823036deaa3.png",
+        "avatar_static": "https://media.infosec.exchange/infosecmedia/cache/accounts/avatars/109/375/178/775/141/755/original/8e9df823036deaa3.png",
+        "header": "https://media.infosec.exchange/infosecmedia/cache/accounts/headers/109/375/178/775/141/755/original/a884d405071a9802.jpeg",
+        "header_static": "https://media.infosec.exchange/infosecmedia/cache/accounts/headers/109/375/178/775/141/755/original/a884d405071a9802.jpeg",
+        "followers_count": 388,
+        "following_count": 317,
+        "statuses_count": 301,
+        "last_status_at": "2022-12-17T00:00:00",
+        "emojis": [],
+        "fields": [
+            {
+                "name": "Pixelfed",
+                "value": "<a href=\"https://pixelfed.de/bsm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">pixelfed.de/bsm</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2022-12-11T15:14:34.985+00:00"
+            },
+            {
+                "name": "About",
+                "value": "\ud83d\udc68\u200d\ud83d\udcbb\ud83d\udd12\u26ea\ud83c\udfb8\ud83c\udf04\ud83d\udee9\ufe0f\ud83d\udc68\u200d\u2708\ufe0f",
+                "verified_at": null
+            },
+            {
+                "name": "Gallery",
+                "value": "<a href=\"https://lychee.bsmserverone.net/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">lychee.bsmserverone.net/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    "media_attachments": [],
+    "mentions": [],
+    "tags": [
+        {
+            "name": "moment",
+            "url": "https://infosec.exchange/tags/moment"
+        },
+        {
+            "name": "elonmusk",
+            "url": "https://infosec.exchange/tags/elonmusk"
+        },
+        {
+            "name": "journis",
+            "url": "https://infosec.exchange/tags/journis"
+        },
+        {
+            "name": "twitter",
+            "url": "https://infosec.exchange/tags/twitter"
+        },
+        {
+            "name": "fediverse",
+            "url": "https://infosec.exchange/tags/fediverse"
+        },
+        {
+            "name": "twittermigration",
+            "url": "https://infosec.exchange/tags/twittermigration"
+        },
+        {
+            "name": "journalismus",
+            "url": "https://infosec.exchange/tags/journalismus"
+        },
+        {
+            "name": "journalism",
+            "url": "https://infosec.exchange/tags/journalism"
+        },
+        {
+            "name": "journalists",
+            "url": "https://infosec.exchange/tags/journalists"
+        },
+        {
+            "name": "twitterpurge",
+            "url": "https://infosec.exchange/tags/twitterpurge"
+        },
+        {
+            "name": "twitterexodus",
+            "url": "https://infosec.exchange/tags/twitterexodus"
+        },
+        {
+            "name": "befree",
+            "url": "https://infosec.exchange/tags/befree"
+        },
+        {
+            "name": "musk",
+            "url": "https://infosec.exchange/tags/musk"
+        }
+    ],
+    "emojis": [],
+    "card": null,
+    "poll": null,
+    "filtered": []
+}
